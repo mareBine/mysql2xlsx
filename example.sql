@@ -1,0 +1,1 @@
+SELECT *FROM tb_countries AS a WHERE 1;SELECT * FROM bwd_statusWHERE cc = @cc;
